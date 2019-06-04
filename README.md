@@ -1,2 +1,4 @@
 # Hello-world
-this is my first repository
+My name is Ngatia Simon.
+this is my first repository.
+I am a python programmer.
